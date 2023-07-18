@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute To My Dad</title>
+    <style>
+        /* Styling the body element
+        like body color and margin */
+ 
+        body {
+            background-color: rgb(217, 217, 228);
+            margin: 20%;
+        }
+ 
+        /* Styling the Title and giving
+        shadow to the title */
+        #title {
+            text-align: center;
+            text-shadow: 1px 1px 2px gray;
+            font-size: 8vh;
+            color: blue;
+        }
+ 
+        /* Setting width and display
+        type of image */
+        img {
+            display: inline;
+            width: 100%;
+        }
+ 
+        /* Setting font color and font
+        size of the image-caption */
+        #caption {
+            font-size: 19px;
+            font-family: Gill Sans;
+            color: black;
+            font-style: italic;
+            align-content: center;
+        }
+ 
+        /* Styling the content of the page like-
+        padding, font-size, font color etc.*/
+        div#tribute-data {
+            background-color: blue;
+            box-shadow:2px 2px 2px gray;
+            font-family: Georgia;
+            color: white;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 50px;
+        }
+ 
+        /* Styling the title of the content */
+        h1.title-APJ {
+            font-size: 22px;
+            color: white;
+            text-align: center;
+            text-shadow: 5px 5px 10px black;
+        }
+ 
+        /* Styling the link provided at the end */
+        #tribute-link {
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+            
+        }
+    </style>
+    
+</head>
+<body>
+    <main id="main">
+ 
+        <!-- Title of the page -->
+        <h1 id="title">
+            <strong>BALOGUN AKEEM ORIOLA</strong>
+        </h1>
+ 
+        <div id="img">
+ 
+            <!--Image of the Tribute Person-->
+            <img src="https://imgur.com/P8yjxoG">
+                 id="image" 
+                 lt="Error Loading Image">
+
+            <center><small id="caption">
+                Great English Teacher and a world-renowned Economist
+                Best Dad in the world.
+            </small></center>
+        </div>
+ 
+        <div id="tribute-data">
+ 
+            <!--Achievements and other
+                details of the person-->
+            <h1 class="title-APJ">
+                About My Loving Dad
+            </h1>
+            <p>
+                ☛ <strong>Chief storyteller and master of embellishment:</strong> His captivating tales have a way of transporting us to imaginary worlds, complete with exaggerated adventures and larger-than-life characters..<br><br>
+                ☛ <strong> The inventor of weird and wonderful DI projects:</strong> From a toothbrush catapult to a remote-controlled lawnmower, his wild ideas never fail to entertain and surprise us.<br><br>
+                ☛ <strong>The ultimate handyman with a twist:</strong> He can fix anything around the house, but his solution sometimes involves duct tape, zip ties, and a little bit of magic.<br><br>
+                ☛ <strong>The reigning champion of bad dance moves:</strong> Whether it's the robot or the funky chicken, his unique dance style never fails to make us laugh, even if it's at his expense.<br><br>
+                ☛ <strong>The official pancake artist:</strong> Breakfast becomes a masterpiece as he whips up pancakes in various shapes and sizes, from dinosaurs to superheroes, making mornings extra special.<br><br>
+                ☛ <strong>The remote control ninja:</strong> With lightning-fast reflexes, he can locate the TV remote from the most improbable places, saving us from the dreaded commercial breaks.<br><br>
+                ☛ <strong> The undisputed champion of Dad Fashion:</strong>His collection of Hawaiian shirts and socks with sandals is a sight to behold, proving that style is a state of mind.<br><br>
+                ☛ <strong>The expert "dadvice" guru:</strong>  From fixing a flat tire to navigating through life's challenges, he's always ready with practical advice that leaves us wondering how he knows it all.<br><br>
+                ☛ <strong>The official family photographer:</strong> Armed with his trusty camera, he captures every family moment, ensuring that we have a lifetime of embarrassing photos to cherish.<br><br>
+                ☛ <strong>The undisputed ruler of the grill:</strong> He has a sixth sense when it comes to perfectly searing steaks and flipping burgers, transforming backyard BBQs into mouthwatering feasts.<br><br>
+                ☛ <strong>The self-proclaimed king of napping:</strong> With a recliner as his throne, he can nap in any situation, whether it's during a movie or a family gathering, inspiring us to embrace the power of relaxation.<br><br>
+                ☛ <strong> The ultimate fixer-upper:</strong> No broken gadget or appliance is beyond his repair skills, and if he can't fix it, he'll find a way to repurpose it into something even cooler.<br><br>
+                ☛ <strong>The master of surprise adventures:</strong> From spontaneous road trips to hidden treasure hunts, he keeps us on our toes, always ready for a thrilling and unforgettable experience.<br><br>
+                ☛ <strong>The grandmaster of bedtime storytelling:</strong>  With his vivid imagination, he weaves magical tales that transport us to whimsical lands, filled with talking animals and fantastical creatures.<br><br>
+                ☛ <strong>The designated dad chauffeur:</strong>He's the reliable driver who shuttles us to endless activities, singing along to our favorite tunes and keeping us entertained on the road.<br><br>
+                ☛ <strong>The ultimate jokester:</strong> He knows how to lighten the mood with his infectious laughter and witty pranks, ensuring that laughter fills our home.<br><br>
+                ☛ <strong>The DIY guru:</strong> From building treehouses to crafting personalized gifts, he showcases his creativity and resourcefulness, turning ordinary objects into works of art.<br><br>
+                ☛ <strong>The secret superhero identity:</strong> He may not wear a cape, but his superpowers include the ability to fix anything, scare away monsters, and make us feel safe and loved.<br><br>
+                ☛ <strong>The expert pancake flipper:</strong> With a flick of the wrist, he sends pancakes soaring through the air, executing flawless flips that amaze us every time.<br><br>
+                ☛ <strong>The official dance floor legend:</strong>His smooth moves and signature dance styles can turn any wedding or party into a show-stopping event, leaving everyone in awe.<br><br>
+                ☛ <strong>The "dad bod" trendsetter:</strong> Who needs six-pack abs when you can rock a dad bod with confidence and charm? He embraces his physique and shows us that self-love is the best love.<br><br>
+                ☛ <strong>The captain of family adventures:</strong> From camping trips to beach excursions, he's always ready to lead the way, ensuring that we create memories that last a lifetime.<br><br>
+                ☛ <strong>The world's best couch potato:</strong>He has perfected the art of lounging on the couch, transforming it into an Olympic sport of comfort and relaxation.<br><br>
+                ☛ <strong> The unofficial tech support guru:</strong> From troubleshooting gadgets to setting up Wi-Fi, he possesses an uncanny ability to understand and fix all our technological woes.<br><br>
+                ☛ <strong>The master of surprise gifts:</strong> He has a knack for finding the perfect presents, surprising us with thoughtful gestures that show us how much he cares.<br><br>
+                
+
+            </p>
+ 
+        </div>
+        <br>
+        
+        <a id="tribute-link" href="#">
+            <small>Designed and developed by</small>
+            <strong>BALOGUN OLOLADE JULIET</strong>
+    </main>
+    
+</body>
+</html>
